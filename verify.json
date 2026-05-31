@@ -2,12 +2,12 @@
   "FKM5-5G9W-IWB2-ALCV": {
     "used": true,
     "device": "EC996E29C895384F",
-    "exp": "2026-06-05 00:00:00"
+    "exp": "2027-06-05 00:00:00"
   },
   "LKFJ-7wvA4-ZZZZ-KVNS": {
-    "used": false,
-    "device": "",
-    "exp": "2026-06-05 00:00:00"
+    "used": true,
+    "device": "C3F404982C650881",
+    "exp": "2027-06-05 00:00:00"
   },
   "5DPf-A8sA-4vSF-5SFV": {
     "used": false,
